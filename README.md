@@ -1,6 +1,6 @@
 # Simple BMI Calculator
 
-![BMI Calculator](![image](https://github.com/iamnippon/BMI-APP-Kotlin/assets/170748816/77ee8def-246e-4d66-8b65-9f0c2faedce5)
+![BMI Calculator](![Picture1](https://github.com/iamnippon/BMI-APP-Kotlin/assets/170748816/f86afc9a-aced-4319-a5c8-b111e304bb89)
 )
 
 ## Introduction

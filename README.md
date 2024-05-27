@@ -1,6 +1,7 @@
 # Simple BMI Calculator
 
-![BMI Calculator](path_to_your_app_screenshot.png)
+![BMI Calculator](![image](https://github.com/iamnippon/BMI-APP-Kotlin/assets/170748816/77ee8def-246e-4d66-8b65-9f0c2faedce5)
+)
 
 ## Introduction
 Welcome to the Simple BMI Calculator! This is a straightforward Android application developed in Kotlin to help users calculate their Body Mass Index (BMI). The app is designed to be user-friendly and efficient, providing quick and accurate results.
@@ -39,8 +40,12 @@ To run this project, you need:
 - `styles.xml` and `themes.xml`: Handle the app's appearance and theming.
 
 ## Screenshots
-![Screenshot 1](path_to_screenshot1.png)
-![Screenshot 2](path_to_screenshot2.png)
+![Screenshot 1](![image](https://github.com/iamnippon/BMI-APP-Kotlin/assets/170748816/a641f480-37ff-44f0-bdef-82333a2b5b7e)
+)
+![Screenshot 2](![image](https://github.com/iamnippon/BMI-APP-Kotlin/assets/170748816/eb422d6d-9d00-4f25-946f-052eed9c37c0)
+)
+![Screenshot 3](![image](https://github.com/iamnippon/BMI-APP-Kotlin/assets/170748816/eb92309f-fb69-4010-9b50-8ba44240e779)
+)
 
 ## Contributing
 Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.

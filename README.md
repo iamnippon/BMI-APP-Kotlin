@@ -23,7 +23,9 @@ To run this project, you need:
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/SimpleBMICalculator.git
+    git clone git@github.com:iamnippon/BMI-APP-Kotlin.git
+    or
+    git clone https://github.com/iamnippon/BMI-APP-Kotlin.git
     ```
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
